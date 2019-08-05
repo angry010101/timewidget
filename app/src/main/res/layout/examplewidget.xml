@@ -15,8 +15,10 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center|center_horizontal|center_vertical"
         android:format12Hour="dd-MMM-yyyy:hh:mm:ss a"
+        android:format24Hour="dd-MMM-yyyy:kk:mm:ss a"
         android:gravity="center_horizontal"
         android:text="heee"
         android:textColor="@android:color/white"
         android:textStyle="bold" />
-</LinearLayout> 
+</LinearLayout>
+
